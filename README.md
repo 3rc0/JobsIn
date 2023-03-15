@@ -21,12 +21,12 @@
   
   Application Tracking System (ATS)
   
-  https://jazzhr.com
-  https://join.com
+ https://jazzhr.com
+ https://join.com
  
  Job Portal
- https://indeed.com
- https://linkedin.com
+https://indeed.com
+https://linkedin.com
   
  # Sourcing
   
