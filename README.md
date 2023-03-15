@@ -21,9 +21,21 @@ To-do plans:
   
   Application Tracking System (ATS)
  
- Job Portal 
+ Job Portal
+ https://indeed.com
+ https://linkedin.com
   
   Sourcing
+  
+  Sourcing in Internal
+  
+  Internal Database
+  
+  HCM/Job Portal/ATS
+  
+  Sourcing in External
+  
+  https://business.linkedin.com/talent-solutions/recruiter
 
 Credentialing
 
