@@ -20,6 +20,9 @@
   Human Capital Managment HCM (third-party)
   
   Application Tracking System (ATS)
+  
+  https://jazzhr.com
+  https://join.com
  
  Job Portal
  https://indeed.com
@@ -56,5 +59,12 @@ https://www.dataflowgroup.com/
 https://credentialcheck.com/
 
 https://www.sterlingrisq.com/
+
+# Onboarding
+
+# Training
+
+LinkedIn Learning: https://www.linkedin.com/learning/
+LinkedIn Learning (Free): https://opportunity.linkedin.com/skills-for-in-demand-jobs?lr=1
 
 # Reference:
