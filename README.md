@@ -37,7 +37,7 @@
   
   https://business.linkedin.com/talent-solutions/recruiter
 
-#Credentialing
+# Credentialing
 
   Manually
   
