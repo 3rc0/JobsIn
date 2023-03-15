@@ -2,14 +2,14 @@
 
 
 
-Abbreviation:
+# Abbreviation:
 
-Index
-Introduction
+# Index
+# Introduction
 
-Recruitement
+# Recruitement
 
-To-do plans:
+# To-do plans:
 
   Office 365 Excel/ Google Sheet
 
@@ -25,7 +25,7 @@ To-do plans:
  https://indeed.com
  https://linkedin.com
   
-  Sourcing
+ # Sourcing
   
   Sourcing in Internal
   
@@ -37,7 +37,7 @@ To-do plans:
   
   https://business.linkedin.com/talent-solutions/recruiter
 
-Credentialing
+#Credentialing
 
   Manually
   
@@ -57,4 +57,4 @@ https://credentialcheck.com/
 
 https://www.sterlingrisq.com/
 
-Reference:
+# Reference:
