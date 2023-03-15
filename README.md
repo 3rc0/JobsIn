@@ -22,10 +22,12 @@
   Application Tracking System (ATS)
   
  https://jazzhr.com
+ 
  https://join.com
  
  Job Portal
 https://indeed.com
+
 https://linkedin.com
   
  # Sourcing
@@ -65,6 +67,7 @@ https://www.sterlingrisq.com/
 # Training
 
 LinkedIn Learning: https://www.linkedin.com/learning/
+
 LinkedIn Learning (Free): https://opportunity.linkedin.com/skills-for-in-demand-jobs?lr=1
 
 # Reference:
