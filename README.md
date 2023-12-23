@@ -46,6 +46,7 @@
 | `MSELECT`|https://www.mselect.com/|https://www.linkedin.com/company/mselectonline  https://www.facebook.com/mselectonline| `Recruitment Agency` `Training Courses` `EN` 
 | `EmployIQ`|https://www.employiq.net/|https://www.linkedin.com/company/employ-iraq https://www.facebook.com/EmployIQ  https://www.instagram.com/employiq/ | `Recruitment Agency` `Ar` `EN` `KRD`
 | `Right Jobs`|https://www.right-jobs.co/|https://www.linkedin.com/company/right-jobs https://www.facebook.com/RightJobs.Iq  https://www.instagram.com/right.jobs.co | `Recruitment Agency` `EN`
+| `Damazrandn`| | https://iq.linkedin.com/company/damazrandn | `Recruitment Agency` `EN`
 | `Erbil Manpower Company Limited (emp)`|https://www.erbilmanpower.com/|https://www.linkedin.com/company/erbil-manpower https://www.facebook.com/ErbilManpower/ | `Recruitment Agency` `EN`
 | `Ultimate Talent`|https://www.ultimate-talent.com/en/?cat=11| https://www.linkedin.com/company/80370630/ https://www.facebook.com/ultimatetalent/| `Recruitment Agency` `EN`
 | `Airswift`|https://www.airswift.com/||`Recruitment Agency` `EN`
