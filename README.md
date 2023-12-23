@@ -1,5 +1,8 @@
 
-### Top Job 💼 Portals and Recruitment Agencies in Iraq 🇮🇶 - Comprehensive List
+## `Top Job Portals, Job Groups, and Recruitment Agencies in Iraq 🇮🇶 - Comprehensive List` 💼💼
+
+
+### `Job Portals`
 
 | **`Name`** | **`Website`** | **`Social Media`** | **`Categories`** |
 | :-------------: | :- | :- | :-: |
@@ -16,32 +19,42 @@
 | `Basrah Vacancies` `وظائف في البصرة` |  | https://www.facebook.com/basravacancies/ https://t.me/s/basrahvacancies | `Job Group` `AR` `EN` 
 | `Oil Jobs Kurdistan` |  | https://www.linkedin.com/company/oil-jobs-kurdistan https://t.me/oil_jobs_kurdistan| `Job Group` `AR` `EN` `KRD`
 | `Jobs In Erbil` | | https://www.facebook.com/groups/AlAwsat/|`Job Group` `AR` `EN` `KRD`
+| `WRS - Worldwide Recruitment`|https://www.worldwide-rs.com/|https://www.linkedin.com/company/wrs-worldwide-recruitment-solutions/ https://www.facebook.com/worldwide.rs https://www.instagram.com/worldwide_rs/|
+| `Shull Employment Solutions`|https://shullsolutions.com/jobs/|https://www.linkedin.com/company/shull/ https://www.facebook.com/Shull.iq/ https://www.instagram.com/shull.solutions/| `Recruitment Agency``EN`
+| `MSELECT`|https://www.mselect.com/|https://www.linkedin.com/company/mselectonline  https://www.facebook.com/mselectonline| `Recruitment Agency` `Training Courses` `EN` 
+| `EmployIQ`|https://www.employiq.net/|https://www.linkedin.com/company/employ-iraq https://www.facebook.com/EmployIQ  https://www.instagram.com/employiq/ | `Recruitment Agency` `Ar` `EN` `KRD`
+| `Right Jobs`|https://www.right-jobs.co/|https://www.linkedin.com/company/right-jobs https://www.facebook.com/RightJobs.Iq  https://www.instagram.com/right.jobs.co | `Recruitment Agency` `EN`
+||https://www.erbilmanpower.com/||
+||https://www.ultimate-talent.com/en/?cat=11||
+||http://jobs.krd/ |https://iq.linkedin.com/company/jobs-krd https://www.facebook.com/people/Jobskrd/61553740231147/ https://www.instagram.com/jobskrd/  | `Job Portal` `AR` `EN` `KRD`
+||https://job.studio/||
+||https://www.kurdistanjob.com/||
+||https://vacanciesiniraq.com/||
+||https://www.ses-iraq.com/||
+||https://linkedin.com||
+||https://iraq.tanqeeb.com/||
+||https://www.bayt.com/en/iraq/||
+||https://www.airswift.com/||
+||https://6-pence.com/||
+||https://www.intiqa.com/||
+||https://www.nesfircroft.com/||
+||https://www.weatherford.com/||
+||https://www.bakerhughes.com/||
+||https://www.tetratech.com/||
+|`Jobs In Baghdad`||https://www.facebook.com/groups/153688084687752/| `Job Group` `AR` `EN`
 
 
 
-https://www.worldwide-rs.com/
-https://shullsolutions.com/jobs/
-https://www.mselect.com/
-https://www.employiq.net/
-https://www.right-jobs.co/
-https://www.erbilmanpower.com/
-https://www.ultimate-talent.com/en/?cat=11
-http://jobs.krd/ 
-https://job.studio/
-https://www.kurdistanjob.com/
-https://vacanciesiniraq.com/
-https://www.ses-iraq.com/
+###  `Job Groups`
+
+| **`Name`** | **`Website`** | **`Social Media`** | **`Categories`** |
+| :-------------: | :- | :- | :-: |
 
 
 
-International companies
-https://linkedin.com
-https://iraq.tanqeeb.com/
-https://www.bayt.com/en/iraq/
-https://www.airswift.com/
-https://6-pence.com/
-https://www.intiqa.com/
-https://www.nesfircroft.com/
-https://www.weatherford.com/
-https://www.bakerhughes.com/
-https://www.tetratech.com/
+###   `Recruitment Agencies`
+
+| **`Name`** | **`Website`** | **`Social Media`** | **`Categories`** |
+| :-------------: | :- | :- | :-: |
+
+
