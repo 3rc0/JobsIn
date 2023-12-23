@@ -55,4 +55,4 @@
 | `Baker Hughes Company`|https://www.bakerhughes.com/|| `Recruitment Agency` `EN`
 | `Tetra Tech` |https://www.tetratech.com/|| `Recruitment Agency` `EN`
 | `SES-IRAQ \| Al Sabah For Employment Services`|https://www.ses-iraq.com/| https://linkedin.com/company/al-sabah-for-employment-services https://www.facebook.com/sesiraq/ https://www.instagram.com/ses.iraq/| `Recruitment Agency` `EN`
-
+| `Work Academy Jobs`|https://works-jobsiq.com/ | https://www.linkedin.com/company/works-jobs-iraq/ https://www.facebook.com/people/Works-jobs/100066611326610/  https://www.instagram.com/works_jobs | `Recruitment Agency` `AR` `EN` `KRD`
