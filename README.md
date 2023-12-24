@@ -9,27 +9,26 @@
 
 ### `List of Job Portals in Iraq`
 
-| **`Name`** | **`Website`** | **`Social Media`** | **`Categories`** |
+| **`Name`** | **`Categories`** | **`Website`** | **`Social Media`** |
 | :-------------: | :- | :- | :-: |
-| `IQJ Scout`| https://iqjscout.com/ | | `Job Portal`  `EN` 
-| `NCC Iraq Jobs` | http://ncciraqjobs.com/ |  | `Job Portal` `Tender`  `EN` 
-| `NGOs Jobs Bids` | https://ngosjobs-bids.com |  |`Job Portal` `Tender`  `EN` | `N/A`
-| `Mihan` | https://lvtd.gov.iq/mihan | https://www.facebook.com/employment.gov.iq | `Job Portal` `Tender` `Training`  `AR`  `GOV` 
-| `Online Job Portal` | https://www.evtc-krg.org/ |  | `Job Portal`  `AR` `EN` `KRD`  `GOV` |  `N/A`
-| `Hawa Jobs` | https://www.hawa.jobs/ | https://www.linkedin.com/company/hawa.jobs https://www.facebook.com/hawa.jobs/ | `Job Portal`  `EN` 
-| `Rwanga Foras` | https://www.rwangaforas.com/ | https://www.facebook.com/forasjobs |`Job Portal` `AR` `EN` `KRD` `NGO`
-| `Jobs KRD`|http://jobs.krd/ |https://linkedin.com/company/jobs-krd https://www.facebook.com/people/Jobskrd/61553740231147/ https://www.instagram.com/jobskrd/  | `Job Portal` `AR` `EN` `KRD`
-| `Job Studio`|https://job.studio/|https://www.linkedin.com/company/jobstudioiq https://www.facebook.com/jobstudioapp https://www.instagram.com/jobstudio.app|`Job Portal` `AR` `EN` `KRD`
-| `KurdistanJob.com`|https://www.kurdistanjob.com/||`Job Portal` `EN`
-| `vacanciesiniraq.com `|https://vacanciesiniraq.com/|https://www.linkedin.com/in/vacancies-in-iraq-0b47a6195/ https://www.facebook.com/Vacancies-in-Iraq-100274868078907/ | `Job Portal` `EN`
-| `LinkedIn`|https://linkedin.com/|| `Job Portal` `EN` `AR`
-| `Tanqeeb`|https://iraq.tanqeeb.com/|| `Job Portal` `EN` `AR`
-| `Bayt.com, Inc`|https://www.bayt.com/en/iraq/|| `Job Portal` `EN` `AR`
-| `UNjobs`|https://unjobs.org/duty_stations/iraq | | `Job Portal` `EN`
-| `Pharma Jobs`|https://pharmajobs.skpi.krd/|| `Job Portal` `EN` 
-|`بەڕێوەبەرایەتی کار:هەولێر`| | https://www.facebook.com/erbil.labor | `Job Portal` `GOV` `KRD`
-|`Job Helper`| https://job-helper.org/ | https://www.linkedin.com/company/job-helper-page https://www.facebook.com/Job.helper11 | `Job Portal` `AR` `EN`
-
+| `IQJ Scout`| `Job Portal`  `EN` | https://iqjscout.com/ | 
+| `NCC Iraq Jobs` | `Job Portal` `Tender`  `EN` | http://ncciraqjobs.com/ |  
+| `NGOs Jobs Bids` |`Job Portal` `Tender`  `EN` | https://ngosjobs-bids.com |  
+| `Mihan` | `Job Portal` `Tender` `Training`  `AR`  `GOV` | https://lvtd.gov.iq/mihan | https://www.facebook.com/employment.gov.iq 
+| `Online Job Portal` | `Job Portal`  `AR` `EN` `KRD`  `GOV` | https://www.evtc-krg.org/ |  
+| `Hawa Jobs`  | `Job Portal`  `EN` | https://www.hawa.jobs/ | https://www.linkedin.com/company/hawa.jobs https://www.facebook.com/hawa.jobs/
+| `Rwanga Foras` |`Job Portal` `AR` `EN` `KRD` `NGO`| https://www.rwangaforas.com/ | https://www.facebook.com/forasjobs 
+| `Jobs KRD`| `Job Portal` `AR` `EN` `KRD`|http://jobs.krd/ |https://linkedin.com/company/jobs-krd https://www.facebook.com/people/Jobskrd/61553740231147/ https://www.instagram.com/jobskrd/  
+| `Job Studio`|`Job Portal` `AR` `EN` `KRD`|https://job.studio/|https://www.linkedin.com/company/jobstudioiq https://www.facebook.com/jobstudioapp https://www.instagram.com/jobstudio.app
+| `KurdistanJob.com`|`Job Portal` `EN`|https://www.kurdistanjob.com/|
+| `vacanciesiniraq.com `| `Job Portal` `EN`|https://vacanciesiniraq.com/|https://www.linkedin.com/in/vacancies-in-iraq-0b47a6195/ https://www.facebook.com/Vacancies-in-Iraq-100274868078907/ 
+| `LinkedIn`| `Job Portal` `EN` `AR`|https://linkedin.com/|
+| `Tanqeeb`| `Job Portal` `EN` `AR`|https://iraq.tanqeeb.com/|
+| `Bayt.com, Inc`| `Job Portal` `EN` `AR`|https://www.bayt.com/en/iraq/|
+| `UNjobs`| `Job Portal` `EN`|https://unjobs.org/duty_stations/iraq | 
+| `Pharma Jobs`| `Job Portal` `EN` |https://pharmajobs.skpi.krd/|
+| `بەڕێوەبەرایەتی کار:هەولێر`| `Job Portal` `GOV` `KRD`| | https://www.facebook.com/erbil.labor 
+|`Job Helper`| `Job Portal` `AR` `EN`| https://job-helper.org/ | https://www.linkedin.com/company/job-helper-page https://www.facebook.com/Job.helper11 
 
 ###  `List of Job Groups in Iraq`
 
