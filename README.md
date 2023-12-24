@@ -32,19 +32,19 @@
 
 ###  `List of Job Groups in Iraq`
 
-| **`Name`** | **`Website`** | **`Social Media`** | **`Categories`** |
+| **`Name`** | **`Categories`**| **`Website`** | **`Social Media`**  |
 | :-------------: | :- | :- | :-: |
-| `Oil Jobs Kurdistan` |  | https://www.linkedin.com/company/oil-jobs-kurdistan https://t.me/oil_jobs_kurdistan| `Job Group` `AR` `EN` `KRD`
-| `All Kurdistan Jobs` | |https://t.me/s/allkurdistanjobs https://www.facebook.com/groups/729055940573096/| `Job Group` `AR` `EN` `KRD`
-| `FIND A JOB IN KURDISTAN` |   | https://www.facebook.com/groups/fjkurdistan/ https://www.linkedin.com/company/find-a-job-in-kurdistan| `Job Group` `AR` `EN` `KRD`
-| `Jobs In Baghdad`||https://www.facebook.com/groups/153688084687752/| `Job Group` `AR` `EN`
-| `Basra Jobs` `وظائف البصرة` |  | https://t.me/s/basrajobs|`Job Group` `AR` `EN` 
-| `Basrah Vacancies` `وظائف في البصرة` |  | https://www.facebook.com/basravacancies/ https://t.me/s/basrahvacancies | `Job Group` `AR` `EN` 
-| `Jobs In Erbil` | | https://www.facebook.com/groups/AlAwsat/|`Job Group` `AR` `EN` `KRD`
-|`Iraq Job Vacancies` | |https://www.linkedin.com/company/iraq-job-vacancies |`Job Group` `AR` `EN` `KRD`
-|`All Iraq Jobs` | | https://www.linkedin.com/company/find-a-jobs-in-kurdstan-oil-and-gas | `Job Group` `AR` `EN` `KRD`
-|`Citadel Jobs` || https://www.linkedin.com/company/all-kurdstan-jobs | `Job Group` `AR` `EN` `KRD`
-|`iraq1jobs` ||https://www.linkedin.com/company/iraq-jobs https://www.facebook.com/iraq1jobs/ |  `Job Group` `AR` `EN`
+| `Oil Jobs Kurdistan`| `Job Group` `AR` `EN` `KRD` |  | https://www.linkedin.com/company/oil-jobs-kurdistan https://t.me/oil_jobs_kurdistan
+| `All Kurdistan Jobs`| `Job Group` `AR` `EN` `KRD` | |https://t.me/s/allkurdistanjobs https://www.facebook.com/groups/729055940573096/
+| `FIND A JOB IN KURDISTAN` | `Job Group` `AR` `EN` `KRD`|   | https://www.facebook.com/groups/fjkurdistan/ https://www.linkedin.com/company/find-a-job-in-kurdistan
+| `Jobs In Baghdad`| `Job Group` `AR` `EN`||https://www.facebook.com/groups/153688084687752/
+| `Basra Jobs` `وظائف البصرة`|`Job Group` `AR` `EN`  |  | https://t.me/s/basrajobs
+| `Basrah Vacancies` `وظائف في البصرة` | `Job Group` `AR` `EN` |  | https://www.facebook.com/basravacancies/ https://t.me/s/basrahvacancies 
+| `Jobs In Erbil`|`Job Group` `AR` `EN` `KRD` | | https://www.facebook.com/groups/AlAwsat/
+|`Iraq Job Vacancies` |`Job Group` `AR` `EN` `KRD`| |https://www.linkedin.com/company/iraq-job-vacancies 
+|`All Iraq Jobs` | `Job Group` `AR` `EN` `KRD`| | https://www.linkedin.com/company/find-a-jobs-in-kurdstan-oil-and-gas 
+|`Citadel Jobs` | `Job Group` `AR` `EN` `KRD`|| https://www.linkedin.com/company/all-kurdstan-jobs 
+|`iraq1jobs` |  `Job Group` `AR` `EN`||https://www.linkedin.com/company/iraq-jobs https://www.facebook.com/iraq1jobs/ 
 
 
 
