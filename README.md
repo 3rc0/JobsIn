@@ -18,7 +18,7 @@
 | `Online Job Portal` | https://www.evtc-krg.org/ |  | `Job Portal`  `AR` `EN` `KRD`  `GOV` |  `N/A`
 | `Hawa Jobs` | https://www.hawa.jobs/ | https://www.linkedin.com/company/hawa.jobs https://www.facebook.com/hawa.jobs/ | `Job Portal`  `EN` 
 | `Rwanga Foras` | https://www.rwangaforas.com/ | https://www.facebook.com/forasjobs |`Job Portal` `AR` `EN` `KRD` `NGO`
-| `Jobs KRD`|http://jobs.krd/ |https://iq.linkedin.com/company/jobs-krd https://www.facebook.com/people/Jobskrd/61553740231147/ https://www.instagram.com/jobskrd/  | `Job Portal` `AR` `EN` `KRD`
+| `Jobs KRD`|http://jobs.krd/ |https://linkedin.com/company/jobs-krd https://www.facebook.com/people/Jobskrd/61553740231147/ https://www.instagram.com/jobskrd/  | `Job Portal` `AR` `EN` `KRD`
 | `Job Studio`|https://job.studio/|https://www.linkedin.com/company/jobstudioiq https://www.facebook.com/jobstudioapp https://www.instagram.com/jobstudio.app|`Job Portal` `AR` `EN` `KRD`
 | `KurdistanJob.com`|https://www.kurdistanjob.com/||`Job Portal` `EN`
 | `vacanciesiniraq.com `|https://vacanciesiniraq.com/|https://www.linkedin.com/in/vacancies-in-iraq-0b47a6195/ https://www.facebook.com/Vacancies-in-Iraq-100274868078907/ | `Job Portal` `EN`
@@ -28,6 +28,8 @@
 | `UNjobs`|https://unjobs.org/duty_stations/iraq | | `Job Portal` `EN`
 | `Pharma Jobs`|https://pharmajobs.skpi.krd/|| `Job Portal` `EN` 
 |`بەڕێوەبەرایەتی کار:هەولێر`| | https://www.facebook.com/erbil.labor | `Job Portal` `GOV` `KRD`
+|`Job Helper`| https://job-helper.org/ | https://www.linkedin.com/company/job-helper-page https://www.facebook.com/Job.helper11 | `Job Portal` `AR` `EN`
+
 
 ###  `List of Job Groups in Iraq`
 
@@ -40,6 +42,11 @@
 | `Basra Jobs` `وظائف البصرة` |  | https://t.me/s/basrajobs|`Job Group` `AR` `EN` 
 | `Basrah Vacancies` `وظائف في البصرة` |  | https://www.facebook.com/basravacancies/ https://t.me/s/basrahvacancies | `Job Group` `AR` `EN` 
 | `Jobs In Erbil` | | https://www.facebook.com/groups/AlAwsat/|`Job Group` `AR` `EN` `KRD`
+|`Iraq Job Vacancies` | |https://www.linkedin.com/company/iraq-job-vacancies |`Job Group` `AR` `EN` `KRD`
+|`All Iraq Jobs` | | https://www.linkedin.com/company/find-a-jobs-in-kurdstan-oil-and-gas | `Job Group` `AR` `EN` `KRD`
+|`Citadel Jobs` || https://www.linkedin.com/company/all-kurdstan-jobs | `Job Group` `AR` `EN` `KRD`
+|`iraq1jobs` ||https://www.linkedin.com/company/iraq-jobs https://www.facebook.com/iraq1jobs/ |  `Job Group` `AR` `EN`
+
 
 
 ###   `List of Recruitment Agencies Operating in Iraq`
@@ -64,3 +71,5 @@
 | `SES-IRAQ \| Al Sabah For Employment Services`|https://www.ses-iraq.com/| https://linkedin.com/company/al-sabah-for-employment-services https://www.facebook.com/sesiraq/ https://www.instagram.com/ses.iraq/| `Recruitment Agency` `EN`
 | `Work Academy Jobs`|https://works-jobsiq.com/ | https://www.linkedin.com/company/works-jobs-iraq/ https://www.facebook.com/people/Works-jobs/100066611326610/  https://www.instagram.com/works_jobs | `Recruitment Agency` `AR` `EN` `KRD`
 | `Aroma City Group` | https://www.aromacitygroup.com/ | https://www.linkedin.com/company/aroma-city-group  |  `Recruitment Agency` `EN`
+|`Tashgheel`|https://www.careers-page.com/tashgheel| https://www.linkedin.com/company/tashgheel/ https://www.facebook.com/Tashgheel.iraq https://www.instagram.com/tashgheel/| `Recruitment Agency` `AR`
+|`Master Group`|https://masteriraq.com|https://linkedin.com/company/mastergroupiraq | `Recruitment Agency` `AR` `EN`
