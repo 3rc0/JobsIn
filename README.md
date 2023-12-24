@@ -27,6 +27,7 @@
 | `Bayt.com, Inc`|https://www.bayt.com/en/iraq/|| `Job Portal` `EN` `AR`
 | `UNjobs`|https://unjobs.org/duty_stations/iraq | | `Job Portal` `EN`
 | `Pharma Jobs`|https://pharmajobs.skpi.krd/|| `Job Portal` `EN` 
+|`بەڕێوەبەرایەتی کار:هەولێر`| | https://www.facebook.com/erbil.labor | `Job Portal` `GOV` `KRD`
 
 ###  `List of Job Groups in Iraq`
 
