@@ -7,6 +7,15 @@
 
 ![Jobs](/assets/images/TopJobs.jpg)
 
+
+|**`Abbreviation`**|**`Full Form`**|
+|:-:|:-:|
+|❕`AR`| Arabic Language
+|❕`EN`|English Language
+|❕`KRD`| Kurdish Language
+|❕`GOV`| Official Government Website/Agency
+
+
 ### `List of Job Portals in Iraq`
 
 | **`Name`** | **`Categories`** | **`Website`** | **`Social Media`** |
