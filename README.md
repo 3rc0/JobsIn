@@ -22,7 +22,7 @@
 | :-------------: | :- | :- | :-: |
 | `IQJ Scout`| `Job Portal`  `EN` | https://iqjscout.com/ | 
 | `NCC Iraq Jobs` | `Job Portal` `Tender`  `EN` | http://ncciraqjobs.com/ |  
-| `NGOs Jobs Bids` |`Job Portal` `Tender`  `EN` | https://ngosjobs-bids.com |  
+| `NGOs Jobs Bids` | `Job Portal` `Tender`  `EN` | https://ngosjobs-bids.com |  
 | `Mihan` | `Job Portal` `Tender` `Training`  `AR`  `GOV` | https://lvtd.gov.iq/mihan | https://www.facebook.com/employment.gov.iq 
 | `Online Job Portal` | `Job Portal`  `AR` `EN` `KRD`  `GOV` | https://www.evtc-krg.org/ |  
 | `Hawa Jobs`  | `Job Portal`  `EN` | https://www.hawa.jobs/ | https://www.linkedin.com/company/hawa.jobs https://www.facebook.com/hawa.jobs/
@@ -38,6 +38,8 @@
 | `Pharma Jobs`| `Job Portal` `EN` |https://pharmajobs.skpi.krd/|
 | `بەڕێوەبەرایەتی کار:هەولێر`| `Job Portal` `GOV` `KRD`| | https://www.facebook.com/erbil.labor 
 |`Job Helper`| `Job Portal` `AR` `EN`| https://job-helper.org/ | https://www.linkedin.com/company/job-helper-page https://www.facebook.com/Job.helper11 
+|`Aweza`|`Job Portal` `AR` `EN` `KRD`|http://www.aweza.co/index.php| https://www.facebook.com/Aweza.co/ https://t.me/awezajobs/
+
 
 ###  `List of Job Groups in Iraq`
 
