@@ -83,3 +83,4 @@
 | `Aroma City Group` |  `Recruitment Agency` `EN`| https://www.aromacitygroup.com/ | https://www.linkedin.com/company/aroma-city-group  
 |`Tashgheel`| `Recruitment Agency` `AR`|https://www.careers-page.com/tashgheel| https://www.linkedin.com/company/tashgheel/ https://www.facebook.com/Tashgheel.iraq https://www.instagram.com/tashgheel/
 |`Master Group`| `Recruitment Agency` `AR` `EN`|https://masteriraq.com|https://linkedin.com/company/mastergroupiraq 
+|`Al Majal Energy `| `Recruitment Agency` `EN`|https://almajalenergy.com/|https://www.linkedin.com/company/al-majal-human-resources
