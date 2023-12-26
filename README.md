@@ -84,3 +84,25 @@
 |`Tashgheel`| `Recruitment Agency` `AR`|https://www.careers-page.com/tashgheel| https://www.linkedin.com/company/tashgheel/ https://www.facebook.com/Tashgheel.iraq https://www.instagram.com/tashgheel/
 |`Master Group`| `Recruitment Agency` `AR` `EN`|https://masteriraq.com|https://linkedin.com/company/mastergroupiraq 
 |`Al Majal Energy `| `Recruitment Agency` `EN`|https://almajalenergy.com/|https://www.linkedin.com/company/al-majal-human-resources
+|`Job Scope Iraq`|`Recruitment Agency` `AR` `EN`||https://www.linkedin.com/company/job-scope-iraq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
