@@ -85,6 +85,7 @@
 |`Master Group`| `Recruitment Agency` `AR` `EN`|https://masteriraq.com|https://linkedin.com/company/mastergroupiraq 
 |`Al Majal Energy `| `Recruitment Agency` `EN`|https://almajalenergy.com/|https://www.linkedin.com/company/al-majal-human-resources
 |`Job Scope Iraq`|`Recruitment Agency` `AR` `EN`||https://www.linkedin.com/company/job-scope-iraq
+|`GEG Staffing`| `Recruitment Agency` `EN` `KRD`| https://gegstaffing.com/ | https://www.linkedin.com/company/geg-staffing/ https://www.facebook.com/people/GEG-Staffing/100063923082419/  https://www.instagram.com/geg.staffing/
 
 
 
