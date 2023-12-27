@@ -59,7 +59,7 @@
 
 
 
-###   `List of Recruitment Agencies (employment agency) Operating in Iraq`
+###   `List of Recruitment Agencies (Employment Agency) Operating in Iraq`
 
 | **`Name`** | **`Categories`**| **`Website`** | **`Social Media`**  |
 | :-------------: | :- | :- | :-: |
