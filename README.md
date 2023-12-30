@@ -37,8 +37,8 @@
 | `UNjobs`| `Job Portal` `EN`|https://unjobs.org/duty_stations/iraq | 
 | `Pharma Jobs`| `Job Portal` `EN` |https://pharmajobs.skpi.krd/|
 | `بەڕێوەبەرایەتی کار:هەولێر`| `Job Portal` `GOV` `KRD`| | https://www.facebook.com/erbil.labor 
-|`Job Helper`| `Job Portal` `AR` `EN`| https://job-helper.org/ | https://www.linkedin.com/company/job-helper-page https://www.facebook.com/Job.helper11 
-|`Aweza`|`Job Portal` `AR` `EN` `KRD`|http://www.aweza.co/index.php| https://www.facebook.com/Aweza.co/ https://t.me/awezajobs/
+| `Job Helper`| `Job Portal` `AR` `EN`| https://job-helper.org/ | https://www.linkedin.com/company/job-helper-page https://www.facebook.com/Job.helper11 
+| `Aweza`|`Job Portal` `AR` `EN` `KRD`|http://www.aweza.co/index.php| https://www.facebook.com/Aweza.co/ https://t.me/awezajobs/
 
 
 ###  `List of Job Groups in Iraq`
@@ -52,10 +52,10 @@
 | `Basra Jobs` `وظائف البصرة`|`Job Group` `AR` `EN`  |  | https://t.me/s/basrajobs
 | `Basrah Vacancies` `وظائف في البصرة` | `Job Group` `AR` `EN` |  | https://www.facebook.com/basravacancies/ https://t.me/s/basrahvacancies 
 | `Jobs In Erbil`|`Job Group` `AR` `EN` `KRD` | | https://www.facebook.com/groups/AlAwsat/
-|`Iraq Job Vacancies` |`Job Group` `AR` `EN` `KRD`| |https://www.linkedin.com/company/iraq-job-vacancies 
-|`All Iraq Jobs` | `Job Group` `AR` `EN` `KRD`| | https://www.linkedin.com/company/find-a-jobs-in-kurdstan-oil-and-gas 
-|`Citadel Jobs` | `Job Group` `AR` `EN` `KRD`|| https://www.linkedin.com/company/all-kurdstan-jobs 
-|`iraq1jobs` |  `Job Group` `AR` `EN`||https://www.linkedin.com/company/iraq-jobs https://www.facebook.com/iraq1jobs/ 
+| `Iraq Job Vacancies` |`Job Group` `AR` `EN` `KRD`| |https://www.linkedin.com/company/iraq-job-vacancies 
+| `All Iraq Jobs` | `Job Group` `AR` `EN` `KRD`| | https://www.linkedin.com/company/find-a-jobs-in-kurdstan-oil-and-gas 
+| `Citadel Jobs` | `Job Group` `AR` `EN` `KRD`|| https://www.linkedin.com/company/all-kurdstan-jobs 
+| `iraq1jobs` |  `Job Group` `AR` `EN`||https://www.linkedin.com/company/iraq-jobs https://www.facebook.com/iraq1jobs/ 
 
 
 
@@ -71,7 +71,7 @@
 | `Damazrandn`| `Recruitment Agency` `EN`| | https://iq.linkedin.com/company/damazrandn 
 | `Erbil Manpower Company Limited (emp)`| `Recruitment Agency` `EN`|https://www.erbilmanpower.com/|https://www.linkedin.com/company/erbil-manpower https://www.facebook.com/ErbilManpower/ 
 | `Ultimate Talent`| `Recruitment Agency` `EN`|https://www.ultimate-talent.com/en/?cat=11| https://www.linkedin.com/company/80370630/ https://www.facebook.com/ultimatetalent/
-| `Airswift`|` Recruitment Agency` `EN`|https://www.airswift.com/|
+| `Airswift`|`Recruitment Agency` `EN`|https://www.airswift.com/|
 | `6 Pence`| `Recruitment Agency` `EN`|https://6-pence.com/|https://www.linkedin.com/company/6-pence https://www.facebook.com/official6pence
 | `Intiqa`| `Recruitment Agency` `EN`|https://www.intiqa.com/|
 | `NES Fircroft `| `Recruitment Agency` `EN`|https://www.nesfircroft.com/|
@@ -81,21 +81,28 @@
 | `SES-IRAQ \| Al Sabah For Employment Services`| `Recruitment Agency` `EN`|https://www.ses-iraq.com/| https://linkedin.com/company/al-sabah-for-employment-services https://www.facebook.com/sesiraq/ https://www.instagram.com/ses.iraq/
 | `Work Academy Jobs`| `Recruitment Agency` `AR` `EN` `KRD`|https://works-jobsiq.com/ | https://www.linkedin.com/company/works-jobs-iraq/ https://www.facebook.com/people/Works-jobs/100066611326610/  https://www.instagram.com/works_jobs 
 | `Aroma City Group` |  `Recruitment Agency` `EN`| https://www.aromacitygroup.com/ | https://www.linkedin.com/company/aroma-city-group  
-|`Tashgheel`| `Recruitment Agency` `AR`|https://www.careers-page.com/tashgheel| https://www.linkedin.com/company/tashgheel/ https://www.facebook.com/Tashgheel.iraq https://www.instagram.com/tashgheel/
-|`Master Group`| `Recruitment Agency` `AR` `EN`|https://masteriraq.com|https://linkedin.com/company/mastergroupiraq 
-|`Al Majal Energy `| `Recruitment Agency` `EN`|https://almajalenergy.com/|https://www.linkedin.com/company/al-majal-human-resources
-|`Job Scope Iraq`|`Recruitment Agency` `AR` `EN`||https://www.linkedin.com/company/job-scope-iraq
-|`GEG Staffing`| `Recruitment Agency` `EN` `KRD`| https://gegstaffing.com/ | https://www.linkedin.com/company/geg-staffing/ https://www.facebook.com/people/GEG-Staffing/100063923082419/  https://www.instagram.com/geg.staffing/
+| `Tashgheel`| `Recruitment Agency` `AR`|https://www.careers-page.com/tashgheel| https://www.linkedin.com/company/tashgheel/ https://www.facebook.com/Tashgheel.iraq https://www.instagram.com/tashgheel/
+| `Master Group`| `Recruitment Agency` `AR` `EN`|https://masteriraq.com|https://linkedin.com/company/mastergroupiraq 
+| `Al Majal Energy `| `Recruitment Agency` `EN`|https://almajalenergy.com/|https://www.linkedin.com/company/al-majal-human-resources
+| `Job Scope Iraq`|`Recruitment Agency` `AR` `EN`||https://www.linkedin.com/company/job-scope-iraq
+| `GEG Staffing`| `Recruitment Agency` `EN` `KRD`| https://gegstaffing.com/ | https://www.linkedin.com/company/geg-staffing/ https://www.facebook.com/people/GEG-Staffing/100063923082419/  https://www.instagram.com/geg.staffing/
 
 
+-
+-
+-
+### ` List of remote-friendly (Home-based) companies in Iraq:` 
 
-
-
-
-
-
-
-
+|**`Name`**|**`Categories`**|**`Region`**|**`Website`**|
+|:-:|:-:|:-:|:-:|
+| `Suncode IT Solutions and Consultancy Ltd. Co.`|`IT Services and IT Consulting`|`Erbil, IQ`| https://suncode.co/
+| `Catholic University in Erbil`|`A non-profit institution of higher education`|`Erbil, IQ`|https://cue.edu.krd/
+| `Free to Run`|`Non-profit organization`|`WorldWide`|https://freetorun.org/
+| `UNDP`|`NGO`|`Worldwide`|https://www.undp.org/
+| `UNICEF`|`NGO`|`Worldwide`|https://www.unicef.org/
+| `Catholic Relief Services`|`NGO`|`Worldwide`|https://www.crs.org/
+| `Hoshī`|`Software Development`|`Worldwide`|https://www.hoshiiapp.com
+| `IN2`|`Humanitarian Affairs `|`Worldwide`|https://in2-comms.com/
 
 
 
