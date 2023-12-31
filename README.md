@@ -105,6 +105,39 @@
 | `IN2`|`Humanitarian Affairs `|`Worldwide`|https://in2-comms.com/
 
 
+-
+-
+-
+### `Unlocking Career Paths: A Directory of Companies with Internship Programs in Iraq:`
+|**`Name`**|**`Categories`**|**`Link to apply`**|
+|:-:|:-:|:-:|
+| `Eduba Center for Human and Organizational Development`|`Training center`|https://www.edubacenter.com/|
+| `Jiyan Foundation` | `NGO` `Onsite` | `Send  a letter of motivation and a CV to internship@jiyan.org. Please inform us in your letter in which area you wish to complete the internship`
+
+
+-
+-
+-
+### `Giving Back Matters: A Directory of Companies with Volunteer Opportunities in Iraq:`
+|**`Name`**|**`Categories`**|**`Link to apply`**|
+|:-:|:-:|:-:|
+|`المركز الوطني للعمل التطوعي NCV.iq`|`GOV` `Onsite`| https://www.facebook.com/NCV.iq/|
+| `Doctors Without Borders- Middle East`|`NGO` `Onsite`|https://www.msf-me.org/work-us/volunteer-uae/apply-volunteering|
+| `UN Volunteers - UNV`|`NGO` `Onsite` `Online-Remote`| https://app.unv.org/|
+| `Iraqi Red Crescent Society`|`NGO` `Onsite`|https://ircs.org.iq/en/contact-us/|
+| `Volunteer.KRD`|`Community Services` `Onsite`|https://volunteer.krd/register|
+| `Volunteer with Us`| `Civil Society` `Onsite` `Online-Remote`| https://volunterwithus.org/members|
+| `Rwanga Foundation`|`NGO` `Onsite` `Online-Remote`|https://www.rwanga.org/volunteer|
+| `QCDT - Al-Qadissiyah Center for Development & Training`|`NGO` `Onsite`|https://www.facebook.com/QadisiyahCenter/|
+| `CDO - Civil Development Organization`|`NGO` `Onsite`|https://old1.cdo-iraq.org/#|
+| `Bring Hope Humanitarian Foundation`|`NGO` `Onsite`| https://www.bringhopefoundation.org/about-careers-and-opportunities
+| `KSC - Kurdistan Save The Children`| `NGO` `Onsite`|https://www.ksc-kcf.org/get-involved#become-volunteer|
+| `SHO - Shareteah Humanitarian Organization`|`NGO` `Onsite`|https://shareteah.org/volunteer/|
+| `BCF - Barzani Charity Foundation`|`NGO` `Onsite`|https://bcf.krd/volunteer/|
+| `WCODR - We Care Organization for Development and Relief`|`NGO` `Onsite`|https://www.wecareiraq.org/join-us|
+|`Amal Organization for Relief and Development`|`NGO` `Onsite`|https://amal-iraq.org/volunteer/|
+
+
 
 
 
