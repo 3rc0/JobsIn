@@ -108,7 +108,7 @@
 -
 -
 -
-### `Unlocking Career Paths: A Directory of Companies with Internship Programs in Iraq:`
+### `List of Companies with Internship Programs in Iraq:`
 |**`Name`**|**`Categories`**|**`Link to apply`**|
 |:-:|:-:|:-:|
 | `Eduba Center for Human and Organizational Development`|`Training center`|https://www.edubacenter.com/|
@@ -118,7 +118,7 @@
 -
 -
 -
-### `Giving Back Matters: A Directory of Companies with Volunteer Opportunities in Iraq:`
+### `List of Companies with Volunteer Opportunities in Iraq:`
 |**`Name`**|**`Categories`**|**`Link to apply`**|
 |:-:|:-:|:-:|
 |`المركز الوطني للعمل التطوعي NCV.iq`|`GOV` `Onsite`| https://www.facebook.com/NCV.iq/|
