@@ -103,6 +103,7 @@
 | `Catholic Relief Services`|`NGO`|`Worldwide`|https://www.crs.org/
 | `Hoshī`|`Software Development`|`Worldwide`|https://www.hoshiiapp.com
 | `IN2`|`Humanitarian Affairs `|`Worldwide`|https://in2-comms.com/
+| `International Rescue Committee - IRC`|`NGO`|`Worldwide`| https://www.rescue.org/
 
 
 -
