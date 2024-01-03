@@ -138,9 +138,12 @@
 | `WCODR - We Care Organization for Development and Relief`|`NGO` `Onsite`|https://www.wecareiraq.org/join-us|
 |`Amal Organization for Relief and Development`|`NGO` `Onsite`|https://amal-iraq.org/volunteer/|
 
+### `Tips of Job Interviews for job seekers:`
 
-
-
+  - `Mastering Common Interview Questions:`  https://www.linkedin.com/learning/mastering-common-interview-questions/be-prepared-with-authentic-answers
+  - `Interviewing Techniques:`	 https://www.linkedin.com/learning/interviewing-techniques-2019/interview-techniques-to-attract-the-best-talent
+  - `Expert Tips for Answering Common Interview Questions:` https://www.linkedin.com/learning/expert-tips-for-answering-common-interview-questions/how-to-approach-this-question-5
+  - `Creating Great First Impressions:` https://www.linkedin.com/learning/creating-great-first-impressions/the-power-of-first-impressions
 
 
 
