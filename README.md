@@ -14,7 +14,9 @@
 |❕`EN`|English Language
 |❕`KRD`| Kurdish Language
 |❕`GOV`| Official Government Website/Agency
-
+-
+-
+-
 
 ### `List of Job Portals in Iraq`
 
@@ -40,6 +42,9 @@
 | `Job Helper`| `Job Portal` `AR` `EN`| https://job-helper.org/ | https://www.linkedin.com/company/job-helper-page https://www.facebook.com/Job.helper11 
 | `Aweza`|`Job Portal` `AR` `EN` `KRD`|http://www.aweza.co/index.php| https://www.facebook.com/Aweza.co/ https://t.me/awezajobs/
 
+-
+-
+-
 
 ###  `List of Job Groups in Iraq`
 
@@ -57,7 +62,9 @@
 | `Citadel Jobs` | `Job Group` `AR` `EN` `KRD`|| https://www.linkedin.com/company/all-kurdstan-jobs 
 | `iraq1jobs` |  `Job Group` `AR` `EN`||https://www.linkedin.com/company/iraq-jobs https://www.facebook.com/iraq1jobs/ 
 
-
+-
+-
+-
 
 ###   `List of Recruitment Agencies (Employment Agency) Operating in Iraq`
 
@@ -150,7 +157,13 @@
  | - `Creating Great First Impressions:`| https://www.linkedin.com/learning/creating-great-first-impressions/the-power-of-first-impressions
 
 
+-
+-
+-
 
+|**`Name`**|**`User Privacy Protection (Delete Profile \|Request Personal data\|Self-destruction Personal Data`**|**`ISO 27001/NIST CSF/SOC 2`**|**`Platform`**|**`UI/UX Accessibility `**|**`Licensed`**|
+|-|-|-|-|-|-|
+|`IQJ Scout`||||||
 
 
 
