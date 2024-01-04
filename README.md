@@ -167,7 +167,7 @@
 -
 -
 
-|**`Name`**|**`User Privacy Protection (Delete Profile \|Request Personal data\|Self-destruction Personal Data`**|**`ISO 27001/NIST CSF/SOC 2`**|**`Platform`**|**`UI/UX Accessibility `**|**`Licensed`**|
+|**`Name`**|**`User Privacy Protection (Delete Profile \|Request Personal data\|Self-destruction Personal Data`**|**` Security (ISO 27001\|NIST CSF\|SOC 2)`**|**`Platform`**|**`UI/UX Accessibility `**|**`Licensed`**|
 |-|-|-|-|-|-|
 |`IQJ Scout`||||||
 
