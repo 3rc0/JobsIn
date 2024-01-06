@@ -14,10 +14,10 @@
 |❕`EN`|English Language
 |❕`KRD`| Kurdish Language
 |❕`GOV`| Official Government Website/Agency
-|❕`ISO 27001`|
-|❕`NIST CSF`|
-|❕`SOC 2`|
-|❕`UI/UX`|
+|❕`ISO 27001`| ISO/IEC 27001:2022 Information security, cybersecurity, and privacy protection
+|❕`NIST CSF`| National Institute of Standards and Technology - Cybersecurity Framework (CSF)
+|❕`SOC 2`| Service Organization Control Type 2
+|❕`UI/UX`| User Interface (UI) / User Experience (UX)
 
 
 -
