@@ -169,7 +169,7 @@
 -
 
 |**`Name`**|**`User Privacy \| Data Protection (Delete Profile \|Request Personal data\|Self-destruction Personal Data)`**|**` Security (ISO 27001\|NIST CSF\|SOC 2)`**|**`Type \|Platform \| Licensed`**|**`UI/UX Accessibility `**|**`Integration`**|
-|-|-|-|-|-|-|
+|-|-|-|-|-|:-:|
 |`IQJ Scout`|||||⛔|
 |`NCC Iraq Jobs`|||||⛔|
 |`NGOs Jobs Bids`|||||⛔|
