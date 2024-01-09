@@ -215,7 +215,7 @@
 |`Weatherford `||||⛔|⛔|
 |`Baker Hughes Company`||||⛔|⛔|
 |`Tetra Tech`||||⛔|⛔|
-|`SES-IRAQ` | Al Sabah For Employment Services`||||⛔|⛔|
+|`SES-IRAQ - Al Sabah For Employment Services`||||⛔|⛔|
 |`Work Academy Jobs`||||⛔|⛔|
 |`Aroma City Group`||||⛔|⛔|
 |`Tashgheel`||||⛔|⛔|
