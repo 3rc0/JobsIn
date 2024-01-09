@@ -228,7 +228,12 @@
 -
 -
 
+## `Occupational Employment and Wage Statistics in Iraq`
 
+There is no standard statistical data about this yet.
+-
+-
+-
 
 
 
