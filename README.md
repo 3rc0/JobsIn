@@ -47,6 +47,7 @@
 | `بەڕێوەبەرایەتی کار:هەولێر`| `Job Portal` `GOV` `KRD`| | https://www.facebook.com/erbil.labor 
 | `Job Helper`| `Job Portal` `AR` `EN`| https://job-helper.org/ | https://www.linkedin.com/company/job-helper-page https://www.facebook.com/Job.helper11 
 | `Aweza`|`Job Portal` `AR` `EN` `KRD`|http://www.aweza.co/index.php| https://www.facebook.com/Aweza.co/ https://t.me/awezajobs/
+| `Lezan`|`Job Portal` `AR` `EN` `KRD`|https://lezan.app/ | https://linkedin.com/company/lezan-work https://www.instagram.com/lezan.app/
 
 -
 -
@@ -225,6 +226,7 @@
 |`Job Scope Iraq`||||⛔ \| ⛔|
 |`GEG Staffing`||||⛔ \| ⛔|
 |`Top Notch Consultancy`||||⛔ \| ⛔|
+|`Lezan`||||⛔ \| ⛔|
 
 -
 -
