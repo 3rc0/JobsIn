@@ -169,62 +169,62 @@
 -
 -
 
-|**`Name`**|**`User Privacy \| Data Protection (Delete Profile \|Request Personal data\|Self-destruction Personal Data)`**|**` Security (ISO 27001\|NIST CSF\|SOC 2)`**|**`Type \|Platform \| Licensed`**|**`UI/UX Accessibility `**|**`Integration`**|
-|-|:-:|:-:|:-:|:-:|:-:|
-|`IQJ Scout`||||⛔|⛔|
-|`NCC Iraq Jobs`||||⛔|⛔|
-|`NGOs Jobs Bids`||||⛔|⛔|
-|`Mihan`||||⛔|⛔|
-|`Online Job Portal`||||⛔|⛔|
-|`Hawa Jobs`||||⛔|⛔|
-|`Rwanga Foras`||||⛔|⛔|
-|`Jobs KRD`||||⛔|⛔|
-|`Job Studio`||||⛔|⛔|
-|`KurdistanJob.com`||||⛔|⛔|
-|`vacanciesiniraq.com `||||⛔|⛔|
+|**`Name`**|**`User Privacy \| Data Protection (Delete Profile \|Request Personal data\|Self-destruction Personal Data)`**|**` Security (ISO 27001\|NIST CSF\|SOC 2)`**|**`Type \|Platform \| Licensed`**|**`UI/UX Accessibility \|Integration`**|
+|-|:-:|:-:|:-:|:-:|
+|`IQJ Scout`||||⛔ \| ⛔|
+|`NCC Iraq Jobs`||||⛔ \| ⛔|
+|`NGOs Jobs Bids`||||⛔ \| ⛔|
+|`Mihan`||||⛔ \| ⛔|
+|`Online Job Portal`||||⛔ \| ⛔|
+|`Hawa Jobs`||||⛔ \| ⛔|
+|`Rwanga Foras`||||⛔ \| ⛔|
+|`Jobs KRD`||||⛔ \| ⛔|
+|`Job Studio`||||⛔ \| ⛔|
+|`KurdistanJob.com`||||⛔ \| ⛔|
+|`vacanciesiniraq.com `||||⛔ \| ⛔|
 |`LinkedIn`||||||
-|`Tanqeeb`||||⛔|⛔|
-|`Bayt.com, Inc`||||⛔|⛔|
-|`UNjobs`||||⛔|⛔|
-|`Pharma Jobs`||||⛔|⛔|
-|`بەڕێوەبەرایەتی کار:هەولێر`||||⛔|⛔|
-|`Job Helper`|||||⛔|⛔|
-|`Aweza`||||⛔|⛔|
-|`Oil Jobs Kurdistan`||||⛔|⛔|
-|`All Kurdistan Jobs`|||||⛔|
-|`FIND A JOB IN KURDISTAN`||||⛔|⛔|
-|`Jobs In Baghdad`||||⛔|⛔|
-|`Basra Jobs وظائف البصرة`||||⛔|⛔|
-|`Basrah Vacancies وظائف في البصرة`||||⛔|⛔|
-|`Jobs In Erbil`||||⛔|⛔|
-|`Iraq Job Vacancies`||||⛔|⛔|
-|`All Iraq Jobs`||||⛔|⛔|
-|`Citadel Jobs`||||⛔|⛔|
-|`iraq1jobs`||||⛔|⛔|
-|`WRS - Worldwide Recruitment`||||⛔|⛔|
-|`Shull Employment Solutions`||||⛔|⛔|
-|`MSELECT`||||⛔|⛔|
-|`EmployIQ`||||⛔|⛔|
-|`Right Jobs`||||⛔|⛔|
-|`Damazrandn`||||⛔|⛔|
-|`Erbil Manpower Company Limited (emp)`||||⛔|⛔|
-|`Ultimate Talent`||||⛔|⛔|
-|`Airswift`||||⛔|⛔|
-|`6 Pence`||||⛔|⛔|
-|`Intiqa`||||⛔|⛔|
-|`NES Fircroft`||||⛔|⛔|
-|`Weatherford `||||⛔|⛔|
-|`Baker Hughes Company`||||⛔|⛔|
-|`Tetra Tech`||||⛔|⛔|
-|`SES-IRAQ - Al Sabah For Employment Services`||||⛔|⛔|
-|`Work Academy Jobs`||||⛔|⛔|
-|`Aroma City Group`||||⛔|⛔|
-|`Tashgheel`||||⛔|⛔|
-|`Master Group`||||⛔|⛔|
-|`Al Majal Energy`||||⛔|⛔|
-|`Job Scope Iraq`||||⛔|⛔|
-|`GEG Staffing`||||⛔|⛔|
-|`Top Notch Consultancy`||||⛔|⛔|
+|`Tanqeeb`||||⛔ \| ⛔|
+|`Bayt.com, Inc`||||⛔ \| ⛔|
+|`UNjobs`||||⛔ \| ⛔|
+|`Pharma Jobs`||||⛔ \| ⛔|
+|`بەڕێوەبەرایەتی کار:هەولێر`||||⛔ \| ⛔|
+|`Job Helper`||||⛔ \| ⛔|
+|`Aweza`||||⛔ \| ⛔|
+|`Oil Jobs Kurdistan`||||⛔ \| ⛔|
+|`All Kurdistan Jobs`||||⛔ \| ⛔|
+|`FIND A JOB IN KURDISTAN`||||⛔ \| ⛔|
+|`Jobs In Baghdad`||||⛔ \| ⛔|
+|`Basra Jobs وظائف البصرة`||||⛔ \| ⛔|
+|`Basrah Vacancies وظائف في البصرة`||||⛔ \| ⛔|
+|`Jobs In Erbil`||||⛔ \| ⛔|
+|`Iraq Job Vacancies`||||⛔ \| ⛔|
+|`All Iraq Jobs`||||⛔ \| ⛔|
+|`Citadel Jobs`||||⛔ \| ⛔|
+|`iraq1jobs`||||⛔ \| ⛔|
+|`WRS - Worldwide Recruitment`||||⛔ \| ⛔|
+|`Shull Employment Solutions`||||⛔ \| ⛔|
+|`MSELECT`||||⛔ \| ⛔|
+|`EmployIQ`||||⛔ \| ⛔|
+|`Right Jobs`||||⛔ \| ⛔|
+|`Damazrandn`||||⛔ \| ⛔|
+|`Erbil Manpower Company Limited (emp)`||||⛔ \| ⛔|
+|`Ultimate Talent`||||⛔ \| ⛔|
+|`Airswift`||||⛔ \| ⛔|
+|`6 Pence`||||⛔ \| ⛔|
+|`Intiqa`||||⛔ \| ⛔|
+|`NES Fircroft`||||⛔ \| ⛔|
+|`Weatherford `||||⛔ \| ⛔|
+|`Baker Hughes Company`||||⛔ \| ⛔|
+|`Tetra Tech`||||⛔ \| ⛔|
+|`SES-IRAQ - Al Sabah For Employment Services`||||⛔ \| ⛔|
+|`Work Academy Jobs`||||⛔ \| ⛔|
+|`Aroma City Group`||||⛔ \| ⛔|
+|`Tashgheel`||||⛔ \| ⛔|
+|`Master Group`||||⛔ \| ⛔|
+|`Al Majal Energy`||||⛔ \| ⛔|
+|`Job Scope Iraq`||||⛔ \| ⛔|
+|`GEG Staffing`||||⛔ \| ⛔|
+|`Top Notch Consultancy`||||⛔ \| ⛔|
 
 -
 -
