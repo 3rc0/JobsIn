@@ -152,7 +152,8 @@
 | `SHO - Shareteah Humanitarian Organization`|`NGO` `Onsite`|https://shareteah.org/volunteer/|
 | `BCF - Barzani Charity Foundation`|`NGO` `Onsite`|https://bcf.krd/volunteer/|
 | `WCODR - We Care Organization for Development and Relief`|`NGO` `Onsite`|https://www.wecareiraq.org/join-us|
-|`Amal Organization for Relief and Development`|`NGO` `Onsite`|https://amal-iraq.org/volunteer/|
+| `Amal Organization for Relief and Development`|`NGO` `Onsite`|https://amal-iraq.org/volunteer/|
+| `Youth Speak`|`NGO` `Onsite` `Online-Remote`|https://www.youthspeakngo.org/
 
 -
 -
