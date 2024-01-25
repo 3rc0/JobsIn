@@ -121,6 +121,7 @@
 | `IN2`|`Humanitarian Affairs `|`Worldwide`|https://in2-comms.com/
 | `International Rescue Committee - IRC`|`NGO`|`Worldwide`| https://www.rescue.org/|
 | `Women for Women International` | `NGO`|`Worldwide`|https://www.womenforwomen.org/|
+| `QiCard`|`FinTech`|`Iraq`|https://qi.iq/|
 
 
 -
