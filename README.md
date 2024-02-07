@@ -235,6 +235,17 @@
 -
 -
 -
+## `List of SaaS platforms for HCM recruitment in Iraq`
+|**`Name`**|**`Link`**|
+|-|-|
+|`SAP`|https://www.sap.com/products/hcm/what-is-human-capital-management.html/|
+|`Oracle Fusion Application - HCM`|https://www.oracle.com/human-capital-management/|
+|`Workday, Inc`|https://www.workday.com/en-us/products/human-capital-management/overview.html/|
+|`Odoo`|https://www.odoo.com/app/recruitment/|
+
+-
+-
+-
 
 ## `Occupational Employment and Wage Statistics in Iraq`
 
