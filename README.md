@@ -235,7 +235,7 @@
 -
 -
 -
-## `List of SaaS platforms for HCM recruitment/ATS in Iraq`
+## `List of SaaS platforms for HCM recruitment/HRIS/ATS in Iraq`
 |**`Name`**|**`Link`**|
 |-|-|
 |`SAP`|https://www.sap.com/products/hcm/what-is-human-capital-management.html/|
