@@ -243,6 +243,7 @@
 |`Workday, Inc`|https://www.workday.com/en-us/products/human-capital-management/overview.html/|
 |`Odoo`|https://www.odoo.com/app/recruitment/|
 |`Bamboo HR LLC`|https://www.bamboohr.com/hr-software/applicant-tracking/|
+|`Zoho Recruit`| https://www.zoho.com/recruit/|
 
 -
 -
