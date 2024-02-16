@@ -123,7 +123,7 @@
 | `Women for Women International` | `NGO`|`Worldwide`|https://www.womenforwomen.org/|
 | `QiCard`|`FinTech`|`Iraq`|https://qi.iq/|
 | `The Syrian American Medical Society (SAMS)`|`NGO`| `Iraq`|https://www.sams-usa.net/|
-| `Earthlink Telecommunications`|`Telecommunication|`Iraq`|https://earthlink.iq/|
+| `Earthlink Telecommunications`|`Telecommunication`|`Iraq`|https://earthlink.iq/|
 | `Talabati`|`Food Delievery`|`Iraqi`|https://talabatey.com/|
 
 
