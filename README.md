@@ -122,9 +122,9 @@
 | `International Rescue Committee - IRC`|`NGO`|`Worldwide`| https://www.rescue.org/|
 | `Women for Women International` | `NGO`|`Worldwide`|https://www.womenforwomen.org/|
 | `QiCard`|`FinTech`|`Iraq`|https://qi.iq/|
-| `The Syrian American Medical Society (SAMS)`| `Iraq`|https://www.sams-usa.net/|
-| `Earthlink Telecommunications`|`Iraq`|https://earthlink.iq/|
-| `Talabati`|`Iraqi`|https://talabatey.com/|
+| `The Syrian American Medical Society (SAMS)`|`NGO`| `Iraq`|https://www.sams-usa.net/|
+| `Earthlink Telecommunications`|`Telecommunication|`Iraq`|https://earthlink.iq/|
+| `Talabati`|`Food Delievery`|`Iraqi`|https://talabatey.com/|
 
 
 
