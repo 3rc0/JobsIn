@@ -125,7 +125,7 @@
 | `The Syrian American Medical Society (SAMS)`|`NGO`| `Iraq`|https://www.sams-usa.net/|
 | `Earthlink Telecommunications`|`Telecommunication`|`Iraq`|https://earthlink.iq/|
 | `Talabati`|`Food Delievery`|`Iraqi`|https://talabatey.com/|
-| `Lionbridge`|`Translation and interpretation services company`|`Global`|https://www.lionbridge.com/|
+| `Lionbridge`|`Translation and interpretation services company`|`Worldwide`|https://www.lionbridge.com/|
 
 
 
