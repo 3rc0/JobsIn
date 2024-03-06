@@ -137,7 +137,7 @@
 |:-:|:-:|:-:|
 | `Eduba Center for Human and Organizational Development`|`Training center`|https://www.edubacenter.com/|
 | `Jiyan Foundation` | `NGO` `Onsite` | `Send  a letter of motivation and a CV to internship@jiyan.org. Please inform us in your letter in which area you wish to complete the internship`
-
+|`بلي - Baly`|`Transportation service in Baghdad` `Onsite`| `https://baly.jobs.personio.de/`
 
 -
 -
