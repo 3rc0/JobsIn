@@ -31,7 +31,8 @@
 | `IQJ Scout`| `Job Portal`  `EN` | https://iqjscout.com/ | 
 | `NCC Iraq Jobs` | `Job Portal` `Tender`  `EN` | http://ncciraqjobs.com/ |  
 | `NGOs Jobs Bids` | `Job Portal` `Tender`  `EN` | https://ngosjobs-bids.com |  
-| `Mihan` | `Job Portal` `Tender` `Training`  `AR`  `GOV` | https://lvtd.gov.iq/mihan | https://www.facebook.com/employment.gov.iq 
+| `Mihan` | `Job Portal` `Tender` `Training`  `AR`  `GOV` | https://lvtd.gov.iq/mihan | https://www.facebook.com/employment.gov.iq
+| `پۆرتاڵی کار` | `Job Portal`  `AR` `KRD` `ENG` `GOV` | https://kar.molsa.gov.krd/ | https://www.facebook.com/kaar.dastabar
 | `Online Job Portal` | `Job Portal`  `AR` `EN` `KRD`  `GOV` | https://www.evtc-krg.org/ |  
 | `Hawa Jobs`  | `Job Portal`  `EN` | https://www.hawa.jobs/ | https://www.linkedin.com/company/hawa.jobs https://www.facebook.com/hawa.jobs/
 | `Rwanga Foras` |`Job Portal` `AR` `EN` `KRD` `NGO`| https://www.rwangaforas.com/ | https://www.facebook.com/forasjobs 
