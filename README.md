@@ -1,11 +1,12 @@
-
-## `Top Job Portals, Job Groups, and Recruitment Agencies in Iraq 🇮🇶 - Comprehensive List` 💼💼
-
-#### ⚠️ [`Stay Secure While Job Hunting `](https://staysafeonline.org/resources/job-search-security/)- The National Cybersecurity Alliance ⚠️
+>> # This repository has been moved to
+>> # https://jobsiniraq.github.io 
 
 
 
-![Jobs](/assets/images/TopJobs.jpg)
+- 
+### `Top Job Portals, Job Groups, and Recruitment Agencies in Iraq 🇮🇶 - Comprehensive List` 💼💼
+
+##### ⚠️ [`Stay Secure While Job Hunting `](https://staysafeonline.org/resources/job-search-security/)- The National Cybersecurity Alliance ⚠️
 
 
 |**`Abbreviation`**|**`Full Form`**|
